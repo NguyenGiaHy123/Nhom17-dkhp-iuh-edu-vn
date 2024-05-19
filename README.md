@@ -1,4 +1,3 @@
-<b>	CÁC CÔNG CỤ</b><br/>
 ### 1.1.	Công cụ xây dựng chương trình><br/>
 ●	Microsoft Visual Studio 2022: <br/>
 ●	MySQL Server:<br/>
@@ -8,9 +7,6 @@
 - Bước 3: Cài đặt MySQL WorkBench down mysql (mysql-installer-community-5.7.44.0.msi) và công cụ kết nói viusalcode(mysql-for-visualstudio-2.0.5.msi)
 - Bước 4: Cài đặt công cụ hỗ trợ kết nối cơ sở dữ liệu Mysql for Visual Studiovà Mysql Connector Net 
 - Bước 5: Chạy chương trình
-### 1.2.	Công cụ làm báo cáo<br/>
-●	Microsoft Word: dùng để viết tài liệu.<br/>
-●	Microsoft Visio, UMLet 13.1: dùng để vẽ các sơ đồ mô tả hệ thống.<br/>
 ### 2.	KẾT QUẢ DEMO CHƯƠNG TRÌNH<br/>
 ### 2.1.	Trang chủ website <br/>
 ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/54c177de-b4ca-42de-8282-cfba25853979)<br/>

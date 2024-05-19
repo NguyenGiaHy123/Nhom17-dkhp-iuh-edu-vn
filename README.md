@@ -1,16 +1,16 @@
 <b>	CÁC CÔNG CỤ</b><br/>
-1.1.	Công cụ xây dựng chương trình
-●	Microsoft Visual Studio 2022: là công cụ chính tạo mã nguồn và biên dịch chương trình
-●	MySQL Server: dùng làm hệ cơ sở dữ liệu cho chương trình
-1.2.	Công cụ làm báo cáo
-●	Microsoft Word: dùng để viết tài liệu.
-●	Microsoft Visio, UMLet 13.1: dùng để vẽ các sơ đồ mô tả hệ thống.
-2.	KẾT QUẢ DEMO CHƯƠNG TRÌNH
-2.1.	Trang chủ website 
- ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/54c177de-b4ca-42de-8282-cfba25853979)
+1.1.	Công cụ xây dựng chương trình><br/>
+●	Microsoft Visual Studio 2022: <br/>
+●	MySQL Server:<br/>
+1.2.	Công cụ làm báo cáo<br/>
+●	Microsoft Word: dùng để viết tài liệu.<br/>
+●	Microsoft Visio, UMLet 13.1: dùng để vẽ các sơ đồ mô tả hệ thống.<br/>
+2.	KẾT QUẢ DEMO CHƯƠNG TRÌNH<br/>
+2.1.	Trang chủ website <br/>
+ ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/54c177de-b4ca-42de-8282-cfba25853979)<br/>
 
  
-Hình 3.1: Trang chủ website
+Hình 3.1: Trang chủ website<br/>
  ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/d1702dae-79cb-414a-bb29-7b4bb8451e6f)
 
 Hình 3.2: Trang đăng nhập

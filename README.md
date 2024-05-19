@@ -32,5 +32,4 @@
 ### Hình 3.13: Trang tra cứu thông tin học tập
 ### 2.7.	Trang đăng ký học phần
 ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/49d9e842-143e-4d0e-9a7b-1ab01731e6e2)
-Hình 3.14: Danh sách học phần có thể đăng ký
 ![image](https://github.com/NguyenGiaHy123/Nhom17-dkhp-iuh-edu-vn/assets/89922176/681ae9a1-aaad-4408-b364-f2d4cc0fddc5)

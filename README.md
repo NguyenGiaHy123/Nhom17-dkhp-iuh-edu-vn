@@ -1,4 +1,4 @@
-<b>	CÁC CÔNG CỤ</b>
+<b>	CÁC CÔNG CỤ</b><br/>
 1.1.	Công cụ xây dựng chương trình
 ●	Microsoft Visual Studio 2022: là công cụ chính tạo mã nguồn và biên dịch chương trình
 ●	MySQL Server: dùng làm hệ cơ sở dữ liệu cho chương trình

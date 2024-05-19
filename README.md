@@ -1,3 +1,5 @@
+###                                                                     Báo cáo cuối kỳ môn Kiến Trúc Phần Mềm Nhóm 17 
+
 ### 1.1.	Công cụ xây dựng chương trình><br/>
 ●	Microsoft Visual Studio 2022: <br/>
 ●	MySQL Server:<br/>
